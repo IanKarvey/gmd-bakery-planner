@@ -1,0 +1,13 @@
+# Build output — the ready-to-run Windows program is published under GitHub Releases instead
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+
+# Data the program writes while running (real orders must never be committed)
+orders.csv
+orders_stock.csv
+exports/
+*.bak
+*.xlsx

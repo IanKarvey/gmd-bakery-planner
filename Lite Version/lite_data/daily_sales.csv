@@ -1,0 +1,151 @@
+date,product,qty_sold,unit_price,total_sales
+2026-09-01,Pandesal,69,5,345
+2026-09-01,Ensaymada,24,25,600
+2026-09-01,Cheese bread,40,15,600
+2026-09-01,Spanish bread,51,12,612
+2026-09-01,Chiffon cake,5,45,225
+2026-09-02,Pandesal,77,5,385
+2026-09-02,Ensaymada,25,25,625
+2026-09-02,Cheese bread,41,15,615
+2026-09-02,Spanish bread,49,12,588
+2026-09-02,Chiffon cake,8,45,360
+2026-09-03,Pandesal,118,5,590
+2026-09-03,Ensaymada,29,25,725
+2026-09-03,Cheese bread,48,15,720
+2026-09-03,Spanish bread,42,12,504
+2026-09-03,Chiffon cake,6,45,270
+2026-09-04,Pandesal,109,5,545
+2026-09-04,Ensaymada,16,25,400
+2026-09-04,Cheese bread,50,15,750
+2026-09-04,Spanish bread,38,12,456
+2026-09-04,Chiffon cake,10,45,450
+2026-09-05,Pandesal,114,5,570
+2026-09-05,Ensaymada,27,25,675
+2026-09-05,Cheese bread,30,15,450
+2026-09-05,Spanish bread,32,12,384
+2026-09-05,Chiffon cake,11,45,495
+2026-09-06,Pandesal,161,5,805
+2026-09-06,Ensaymada,35,25,875
+2026-09-06,Cheese bread,67,15,1005
+2026-09-06,Spanish bread,48,12,576
+2026-09-06,Chiffon cake,6,45,270
+2026-09-07,Pandesal,104,5,520
+2026-09-07,Ensaymada,30,25,750
+2026-09-07,Cheese bread,40,15,600
+2026-09-07,Spanish bread,46,12,552
+2026-09-07,Chiffon cake,12,45,540
+2026-09-08,Pandesal,116,5,580
+2026-09-08,Ensaymada,25,25,625
+2026-09-08,Cheese bread,24,15,360
+2026-09-08,Spanish bread,46,12,552
+2026-09-08,Chiffon cake,7,45,315
+2026-09-09,Pandesal,93,5,465
+2026-09-09,Ensaymada,22,25,550
+2026-09-09,Cheese bread,42,15,630
+2026-09-09,Spanish bread,39,12,468
+2026-09-09,Chiffon cake,5,45,225
+2026-09-10,Pandesal,100,5,500
+2026-09-10,Ensaymada,28,25,700
+2026-09-10,Cheese bread,43,15,645
+2026-09-10,Spanish bread,39,12,468
+2026-09-10,Chiffon cake,10,45,450
+2026-09-11,Pandesal,80,5,400
+2026-09-11,Ensaymada,22,25,550
+2026-09-11,Cheese bread,53,15,795
+2026-09-11,Spanish bread,39,12,468
+2026-09-11,Chiffon cake,8,45,360
+2026-09-12,Pandesal,62,5,310
+2026-09-12,Ensaymada,18,25,450
+2026-09-12,Cheese bread,28,15,420
+2026-09-12,Spanish bread,25,12,300
+2026-09-12,Chiffon cake,9,45,405
+2026-09-13,Pandesal,157,5,785
+2026-09-13,Ensaymada,19,25,475
+2026-09-13,Cheese bread,52,15,780
+2026-09-13,Spanish bread,46,12,552
+2026-09-13,Chiffon cake,9,45,405
+2026-09-14,Pandesal,93,5,465
+2026-09-14,Ensaymada,37,25,925
+2026-09-14,Cheese bread,52,15,780
+2026-09-14,Spanish bread,46,12,552
+2026-09-14,Chiffon cake,9,45,405
+2026-09-15,Pandesal,134,5,670
+2026-09-15,Ensaymada,33,25,825
+2026-09-15,Cheese bread,41,15,615
+2026-09-15,Spanish bread,41,12,492
+2026-09-15,Chiffon cake,9,45,405
+2026-09-16,Pandesal,84,5,420
+2026-09-16,Ensaymada,29,25,725
+2026-09-16,Cheese bread,40,15,600
+2026-09-16,Spanish bread,39,12,468
+2026-09-16,Chiffon cake,10,45,450
+2026-09-17,Pandesal,94,5,470
+2026-09-17,Ensaymada,20,25,500
+2026-09-17,Cheese bread,32,15,480
+2026-09-17,Spanish bread,25,12,300
+2026-09-17,Chiffon cake,8,45,360
+2026-09-18,Pandesal,107,5,535
+2026-09-18,Ensaymada,23,25,575
+2026-09-18,Cheese bread,40,15,600
+2026-09-18,Spanish bread,39,12,468
+2026-09-18,Chiffon cake,10,45,450
+2026-09-19,Pandesal,80,5,400
+2026-09-19,Ensaymada,23,25,575
+2026-09-19,Cheese bread,40,15,600
+2026-09-19,Spanish bread,50,12,600
+2026-09-19,Chiffon cake,9,45,405
+2026-09-20,Pandesal,125,5,625
+2026-09-20,Ensaymada,38,25,950
+2026-09-20,Cheese bread,60,15,900
+2026-09-20,Spanish bread,40,12,480
+2026-09-20,Chiffon cake,12,45,540
+2026-09-21,Pandesal,81,5,405
+2026-09-21,Ensaymada,33,25,825
+2026-09-21,Cheese bread,58,15,870
+2026-09-21,Spanish bread,48,12,576
+2026-09-21,Chiffon cake,9,45,405
+2026-09-22,Pandesal,137,5,685
+2026-09-22,Ensaymada,32,25,800
+2026-09-22,Cheese bread,50,15,750
+2026-09-22,Spanish bread,39,12,468
+2026-09-22,Chiffon cake,5,45,225
+2026-09-23,Pandesal,81,5,405
+2026-09-23,Ensaymada,23,25,575
+2026-09-23,Cheese bread,27,15,405
+2026-09-23,Spanish bread,47,12,564
+2026-09-23,Chiffon cake,7,45,315
+2026-09-24,Pandesal,95,5,475
+2026-09-24,Ensaymada,14,25,350
+2026-09-24,Cheese bread,24,15,360
+2026-09-24,Spanish bread,42,12,504
+2026-09-24,Chiffon cake,10,45,450
+2026-09-25,Pandesal,66,5,330
+2026-09-25,Ensaymada,29,25,725
+2026-09-25,Cheese bread,31,15,465
+2026-09-25,Spanish bread,43,12,516
+2026-09-25,Chiffon cake,9,45,405
+2026-09-26,Pandesal,136,5,680
+2026-09-26,Ensaymada,27,25,675
+2026-09-26,Cheese bread,44,15,660
+2026-09-26,Spanish bread,28,12,336
+2026-09-26,Chiffon cake,6,45,270
+2026-09-27,Pandesal,127,5,635
+2026-09-27,Ensaymada,35,25,875
+2026-09-27,Cheese bread,65,15,975
+2026-09-27,Spanish bread,47,12,564
+2026-09-27,Chiffon cake,11,45,495
+2026-09-28,Pandesal,84,5,420
+2026-09-28,Ensaymada,22,25,550
+2026-09-28,Cheese bread,51,15,765
+2026-09-28,Spanish bread,65,12,780
+2026-09-28,Chiffon cake,12,45,540
+2026-09-29,Pandesal,100,5,500
+2026-09-29,Ensaymada,16,25,400
+2026-09-29,Cheese bread,45,15,675
+2026-09-29,Spanish bread,53,12,636
+2026-09-29,Chiffon cake,9,45,405
+2026-09-30,Pandesal,133,5,665
+2026-09-30,Ensaymada,20,25,500
+2026-09-30,Cheese bread,37,15,555
+2026-09-30,Spanish bread,49,12,588
+2026-09-30,Chiffon cake,8,45,360

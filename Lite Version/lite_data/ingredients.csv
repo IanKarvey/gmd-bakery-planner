@@ -1,0 +1,6 @@
+ingredient,qty_on_hand,unit,reorder_level
+Flour,60,kg,20
+Sugar,15,kg,5
+Butter,8,kg,3
+Eggs,150,pcs,60
+Yeast,2,kg,1
