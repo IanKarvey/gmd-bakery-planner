@@ -1,5 +1,11 @@
 # GMD Bakery — Order and Production Planner
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-2B5B84)
+![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-11557C)
+![Storage](https://img.shields.io/badge/storage-CSV-555)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+
 A simple program for recording bakery orders, keeping count of what you bake, planning what to
 bake next, and seeing sales and charts. **No coding needed.**
 
@@ -12,6 +18,18 @@ Python · Tkinter · Matplotlib · CSV · PyInstaller.
 > The ready-to-run Windows program (`dist\GMD Bakery Planner`) is attached to this repository's
 > **Releases** page rather than stored in the code. All data in this repository is sample data —
 > no real orders or customer details are included.
+
+![Orders tab](docs/screenshots/orders.png)
+
+## Screenshots
+
+Every screen below is the real program running on its built-in sample data.
+
+| Production plan — what to bake, and how much is still short | Inventory — baked, sold and in stock |
+|---|---|
+| ![Production plan](docs/screenshots/production-plan.png) | ![Inventory](docs/screenshots/inventory.png) |
+| **Reports — totals, best day, best seller** | **Charts — quantity, sales trend and sales share** |
+| ![Reports](docs/screenshots/reports.png) | ![Charts](docs/screenshots/charts.png) |
 
 ---
 
