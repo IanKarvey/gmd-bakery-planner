@@ -1,0 +1,17 @@
+order_id,order_date,customer,product,qty,unit_price,total,pickup_date,status
+ORD-001,2026-09-08,Maria Santos,Spanish bread,12,12,144,2026-09-09,Completed
+ORD-002,2026-09-14,Juan Dela Cruz,Pandesal,12,5,60,2026-09-16,Completed
+ORD-003,2026-09-22,Ana Reyes,Cheese bread,100,15,1500,2026-09-23,Completed
+ORD-004,2026-09-02,Carlo Garcia,Chiffon cake,36,45,1620,2026-09-04,Completed
+ORD-005,2026-09-23,Liza Mendoza,Cheese bread,36,15,540,2026-09-25,Completed
+ORD-006,2026-09-05,Paolo Cruz,Spanish bread,36,12,432,2026-09-08,Completed
+ORD-007,2026-09-21,Grace Bautista,Ensaymada,24,25,600,2026-09-24,Completed
+ORD-008,2026-09-18,Mark Ramos,Ensaymada,36,25,900,2026-09-21,Completed
+ORD-009,2026-09-12,Joy Villanueva,Spanish bread,50,12,600,2026-09-13,Completed
+ORD-010,2026-09-23,Ben Aquino,Pandesal,50,5,250,2026-09-25,Cancelled
+ORD-011,2026-09-03,Sample Café,Ensaymada,60,25,1500,2026-09-04,Completed
+ORD-012,2026-09-03,Sample Parish Office,Chiffon cake,100,45,4500,2026-09-04,Completed
+ORD-013,2026-09-16,Sample Barangay Hall,Ensaymada,36,25,900,2026-09-19,Completed
+ORD-014,2026-09-23,Maria Santos,Pandesal,24,5,120,2026-09-26,Pending
+ORD-015,2026-09-18,Juan Dela Cruz,Ensaymada,100,25,2500,2026-09-21,Pending
+ORD-016,2026-09-06,Ana Reyes,Ensaymada,60,25,1500,2026-09-07,Pending

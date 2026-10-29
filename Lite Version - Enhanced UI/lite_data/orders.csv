@@ -1,0 +1,17 @@
+order_id,order_date,customer,product,qty,unit_price,total,pickup_date,status
+ORD-001,2026-09-09,Maria Santos,Chiffon cake,100,45,4500,2026-09-11,Completed
+ORD-002,2026-09-12,Juan Dela Cruz,Ensaymada,30,25,750,2026-09-14,Completed
+ORD-003,2026-09-16,Ana Reyes,Spanish bread,50,12,600,2026-09-18,Completed
+ORD-004,2026-09-27,Carlo Garcia,Chiffon cake,30,45,1350,2026-09-28,Completed
+ORD-005,2026-09-07,Liza Mendoza,Spanish bread,24,12,288,2026-09-09,Completed
+ORD-006,2026-09-02,Paolo Cruz,Cheese bread,100,15,1500,2026-09-05,Completed
+ORD-007,2026-09-24,Grace Bautista,Spanish bread,100,12,1200,2026-09-25,Completed
+ORD-008,2026-09-22,Mark Ramos,Ensaymada,12,25,300,2026-09-24,Completed
+ORD-009,2026-09-13,Joy Villanueva,Chiffon cake,60,45,2700,2026-09-15,Completed
+ORD-010,2026-09-06,Ben Aquino,Pandesal,12,5,60,2026-09-09,Cancelled
+ORD-011,2026-09-08,Sample Café,Chiffon cake,30,45,1350,2026-09-11,Completed
+ORD-012,2026-09-03,Sample Parish Office,Spanish bread,36,12,432,2026-09-06,Completed
+ORD-013,2026-09-18,Sample Barangay Hall,Ensaymada,50,25,1250,2026-09-19,Completed
+ORD-014,2026-09-04,Maria Santos,Ensaymada,60,25,1500,2026-09-06,Pending
+ORD-015,2026-09-12,Juan Dela Cruz,Chiffon cake,30,45,1350,2026-09-14,Pending
+ORD-016,2026-09-03,Ana Reyes,Chiffon cake,60,45,2700,2026-09-04,Pending

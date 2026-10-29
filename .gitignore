@@ -6,8 +6,8 @@ __pycache__/
 *.pyc
 
 # Data the program writes while running (real orders must never be committed)
-orders.csv
-orders_stock.csv
+/orders.csv
+/orders_stock.csv
 exports/
 *.bak
 *.xlsx
